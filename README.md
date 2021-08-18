@@ -1,6 +1,6 @@
 
-# 2021.DeepLearning for ComputerVision
-2021-2학기 일반대학원 지능기전공학과 컴퓨터비전 수업
+# 2021.ComputerVision
+- 2021-2학기 일반대학원 지능기전공학과 컴퓨터비전 수업
 
 | week | Cource Contents | LectureNote | Date |  Video | HW | 
 |:---:|:---:|:---:|:---:|:---:|:---:| 
