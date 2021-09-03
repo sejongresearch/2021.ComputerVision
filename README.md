@@ -8,6 +8,10 @@
 - 수시평가/프로젝트 총 60점으로 개별프로젝트 진행
 - 출결 10점으로 블랙보드 기준을 따름 
 
+## 텀프로젝트
+- 주제 선정 : 9월 10일 [엑셀시트](https://docs.google.com/spreadsheets/d/1um1bfjKg3W-ZblAhwCPvk1zGkrckyepdLi16L6XLcF8/edit?usp=sharing)
+
+
 ## 강의계획서
 
 | week | Cource Contents | LectureNote | Date |  Video | HW | 
