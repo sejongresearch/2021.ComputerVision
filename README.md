@@ -10,7 +10,10 @@
 
 ## 텀프로젝트
 - 핵심트랙 주제선정 마감 : 9월 10일 [엑셀시트](https://docs.google.com/spreadsheets/d/1um1bfjKg3W-ZblAhwCPvk1zGkrckyepdLi16L6XLcF8/edit?usp=sharing)
-
+- 프로젝트 1단계 마감 : 10월 17일까지
+  - Eval.ai 에 자신의 텀프로젝트 용 리더보드 제작
+  - 베이스라인 성능 및 코드 제공
+  - 해당 분야 서베이 결과 공유
 
 ## 강의계획서
 
