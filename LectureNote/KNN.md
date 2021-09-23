@@ -4,6 +4,7 @@
 
 | week | Cource Contents | LectureNote | Date |  Video | ETC | 
 |:---:|:---:|:---:|:---:|:---:|:---:| 
+| 5 | KNN_분류 (이론) | [PDF](https://github.com/sejongresearch/2021.MachineLearning/blob/main/LectureNote/%5B%E1%84%80%E1%85%B5%E1%84%80%E1%85%A8%E1%84%92%E1%85%A1%E1%86%A8%E1%84%89%E1%85%B3%E1%86%B8%5D%5B5%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%5D%20KNN.pdf)  | 2021.03.29 | [Youtube](https://youtu.be/Q5EAL920wn0) | |
 | 5 | KNN_분류 (이론+실습) | [실습 코드](https://github.com/sejongresearch/2021.MachineLearning/blob/main/Labs/5%EC%A3%BC%EC%B0%A8/5%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1_KNN.ipynb)  | 2021.03.29 | [Youtube](https://youtu.be/n3SYfSUB11E) | |
 | 5 | KNN_회귀 (이론+실습) |  | 2021.03.29 | [Youtube](https://youtu.be/w5RWGz5BxBY) |  |
 
