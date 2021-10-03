@@ -4,10 +4,13 @@
 - 담당교수: 최유경 (ykchoi@sejong.ac.kr)
 - 담당조교: 이광진 (kjlee@rcv.sejong.ac.kr)
 
-## 시험정보
+## 배점 정보
 - 중간/기말 각 15점씩 이론/실습으로 진행
 - 수시평가/프로젝트 총 60점으로 개별프로젝트 진행
 - 출결 10점으로 블랙보드 기준을 따름 
+
+## 시험 정보
+- 중간고사: 10월 22일 (금) 수업시간
 
 ## 텀프로젝트
 - 핵심트랙 주제선정 마감 : 9월 10일 [엑셀시트](https://docs.google.com/spreadsheets/d/1um1bfjKg3W-ZblAhwCPvk1zGkrckyepdLi16L6XLcF8/edit?usp=sharing)
