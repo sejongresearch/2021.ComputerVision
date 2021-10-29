@@ -10,7 +10,9 @@
 - 출결 10점으로 블랙보드 기준을 따름 
 
 ## 시험 정보
-- 중간고사: 10월 29일 (금) 수업시간
+- 중간고사: 10월 29일(금) 1시~4시 
+- [고사장확인](https://docs.google.com/spreadsheets/d/1um1bfjKg3W-ZblAhwCPvk1zGkrckyepdLi16L6XLcF8/edit#gid=368982651)
+- [시험지](https://www.dropbox.com/s/r4istxk8tctw45q/%5B%EC%BB%B4%ED%93%A8%ED%84%B0%EB%B9%84%EC%A0%84%5D%5B8%EC%A3%BC%EC%B0%A8%5D%20%EC%A4%91%EA%B0%84%EA%B3%A0%EC%82%AC.pdf?dl=0)
 
 ## 텀프로젝트
 - 핵심트랙 주제선정 마감 : 9월 10일 [엑셀시트](https://docs.google.com/spreadsheets/d/1um1bfjKg3W-ZblAhwCPvk1zGkrckyepdLi16L6XLcF8/edit?usp=sharing)
