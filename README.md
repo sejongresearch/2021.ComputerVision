@@ -46,3 +46,8 @@
 | 10 | HW & SW | [PDF](https://github.com/sejongresearch/ComputerVision/blob/main/LectureNote/%5B%E1%84%8F%E1%85%A5%E1%86%B7%E1%84%91%E1%85%B2%E1%84%90%E1%85%A5%E1%84%87%E1%85%B5%E1%84%8C%E1%85%A5%E1%86%AB%5D%5B10%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%5D%20%E1%84%89%E1%85%A9%E1%84%91%E1%85%B3%E1%84%90%E1%85%B3%E1%84%8B%E1%85%B0%E1%84%8B%E1%85%A5%E1%84%8B%E1%85%AA%20%E1%84%92%E1%85%A1%E1%84%83%E1%85%B3%E1%84%8B%E1%85%B0%E1%84%8B%E1%85%A5%20(2021)-%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A9%E1%86%AB.pdf) | 2021.11.05 | [Youtube](https://youtu.be/jghCifG7LEs) |  |
 | 11 | CNN 모델 | [PDF](https://github.com/sejongresearch/ComputerVision/blob/main/LectureNote/%5B%E1%84%8F%E1%85%A5%E1%86%B7%E1%84%91%E1%85%B2%E1%84%90%E1%85%A5%E1%84%87%E1%85%B5%E1%84%8C%E1%85%A5%E1%86%AB%5D%5B11%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%5D%20CNN%20%E1%84%86%E1%85%A9%E1%84%83%E1%85%A6%E1%86%AF%20(2021)-%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A9%E1%86%AB.pdf) | 2021.11.12 | [Youtube](https://youtu.be/yXWrU-CMNCg) |  |
 | 12 | 텀프로젝트 집중기간 | | 2021.11 19 | | 
+| 13 | 텀프로젝트 집중기간 | | 2021.11 26 | | 
+| 14 | CNN 학습 (1) | | 2021.12 03 | | 
+| 15 | CNN 학습 (2) | | 2021.12 10 | | 
+| 16 | 기말고사 | | 2021.12.17 | 수업시간 | 
+
