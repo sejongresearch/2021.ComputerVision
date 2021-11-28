@@ -42,14 +42,14 @@
 | 6 | 역전파_이론 | [PDF](https://github.com/sejongresearch/ComputerVision/blob/main/LectureNote/%5B%E1%84%8F%E1%85%A5%E1%86%B7%E1%84%91%E1%85%B2%E1%84%90%E1%85%A5%E1%84%87%E1%85%B5%E1%84%8C%E1%85%A5%E1%86%AB%5D%5B5%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%5D%20%E1%84%8B%E1%85%A7%E1%86%A8%E1%84%8C%E1%85%A5%E1%86%AB%E1%84%91%E1%85%A1%20(2021)-%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A9%E1%86%AB.pdf) | 2021.10.15 | [Youtube](https://youtu.be/h1rh2TWaZrA) |  |
 | 7 | 합성곱_이론 | [PDF](https://github.com/sejongresearch/ComputerVision/blob/main/LectureNote/%5B%E1%84%8F%E1%85%A5%E1%86%B7%E1%84%91%E1%85%B2%E1%84%90%E1%85%A5%E1%84%87%E1%85%B5%E1%84%8C%E1%85%A5%E1%86%AB%5D%5B6%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%5D%20%E1%84%92%E1%85%A1%E1%86%B8%E1%84%89%E1%85%A5%E1%86%BC%E1%84%80%E1%85%A9%E1%86%B8%E1%84%89%E1%85%B5%E1%86%AB%E1%84%80%E1%85%A7%E1%86%BC%E1%84%86%E1%85%A1%E1%86%BC%20(2021)-%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A9%E1%86%AB.pdf) | 2021.10.22 | [Youtube](https://youtu.be/K113v4NCH4w) |  |
 | 8 | 중간고사 |  | 2021.10.29 |  |  |
-| 9 | 텀프로젝트 2단계 | [가이드라인](https://github.com/sejongresearch/ComputerVision/blob/main/LectureNote/Project.md) | 2021.10.25 |  | 마감: 11월 26일 |
+| 9 | 텀프로젝트 2단계 | [가이드라인](https://github.com/sejongresearch/ComputerVision/blob/main/LectureNote/Project.md) | 2021.10.25 |  |  |
 | 10 | HW & SW | [PDF](https://github.com/sejongresearch/ComputerVision/blob/main/LectureNote/%5B%E1%84%8F%E1%85%A5%E1%86%B7%E1%84%91%E1%85%B2%E1%84%90%E1%85%A5%E1%84%87%E1%85%B5%E1%84%8C%E1%85%A5%E1%86%AB%5D%5B10%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%5D%20%E1%84%89%E1%85%A9%E1%84%91%E1%85%B3%E1%84%90%E1%85%B3%E1%84%8B%E1%85%B0%E1%84%8B%E1%85%A5%E1%84%8B%E1%85%AA%20%E1%84%92%E1%85%A1%E1%84%83%E1%85%B3%E1%84%8B%E1%85%B0%E1%84%8B%E1%85%A5%20(2021)-%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A9%E1%86%AB.pdf) | 2021.11.05 | [Youtube](https://youtu.be/jghCifG7LEs) |  |
 | 11 | CNN 모델 | [PDF](https://github.com/sejongresearch/ComputerVision/blob/main/LectureNote/%5B%E1%84%8F%E1%85%A5%E1%86%B7%E1%84%91%E1%85%B2%E1%84%90%E1%85%A5%E1%84%87%E1%85%B5%E1%84%8C%E1%85%A5%E1%86%AB%5D%5B11%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%5D%20CNN%20%E1%84%86%E1%85%A9%E1%84%83%E1%85%A6%E1%86%AF%20(2021)-%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A9%E1%86%AB.pdf) | 2021.11.12 | [Youtube](https://youtu.be/yXWrU-CMNCg) |  |
 | 12 | 텀프로젝트 집중기간 | | 2021.11 19 | | 
 | 13 | 텀프로젝트 집중기간 | | 2021.11 26 | | 
-| 14 | CNN 학습 (1) | | 2021.12 03 | | 
-|    | 텀프로젝트 2단계 마감 | |  | 마감 12/05 <br> 오후11시59분 | 
-| 15 | CNN 학습 (2) | | 2021.12 10 | | 
+| 14 | CNN 학습 (1) | | 2021.12.03 | | 
+|    | 텀프로젝트 2단계 마감 | |  | | 마감 12/05 <br> 오후11시59분 
+| 15 | CNN 학습 (2) | | 2021.12.10 | | 
 | 16 | 기말고사 | | 2021.12.17 | 수업시간 | 
-|    | 텀프로젝트 3단 마감 | |  | 마감 12/19 <br> 오후11시59분 | 
+|    | 텀프로젝트 3단 마감 | |  |  | 마감 12/19 <br> 오후11시59분
 
